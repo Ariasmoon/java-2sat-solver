@@ -10,4 +10,4 @@ Ce projet propose un **solveur 2-SAT** en Java :
 3. Calcul des **composantes fortement connexes** via l’algorithme de Kosaraju.  
 4. Détermination de la satisfiabilité (l’existance d’un littéral et de son opposé dans la même SCC rend la formule insatisfiable, sinon elle l’est).
 
-**Contexte :** projet universitaire en L3 – structures de données et algorithmique, projet réalisé en binôme.
+**Contexte :** projet universitaire en L3, projet réalisé en binôme.

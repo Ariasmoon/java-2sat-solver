@@ -6,8 +6,8 @@
 
 Ce projet propose un **solveur 2-SAT** en Java :  
 1. Lecture d’une formule 2-SAT au format DIMACS CNF.  
-2. Construction du **graphe d’implications** (2 × |C| arcs).  
+2. Construction du **graphe d’implications**.  
 3. Calcul des **composantes fortement connexes** via l’algorithme de Kosaraju.  
-4. Détermination de la satisfiabilité (l’existance d’un littéral et de son opposé dans la même SCC rend la formule insatisfiable, sinon elle l’est).
+4. Détermination de la satisfiabilité .
 
 **Contexte :** projet universitaire en L3, projet réalisé en binôme.
